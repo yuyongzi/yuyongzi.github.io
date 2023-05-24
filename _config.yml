@@ -84,37 +84,37 @@ author:
   avatar           : "于永孜.png"
   bio              : "Undergraduate Student"
   location         : "Beijing, China"
-  employer         :#
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :#"http://yourfullgooglescholarurl.com"
+  employer         : #
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : yuyz@bit.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :#
-  bitbucket        :#
-  codepen          :#
-  dribbble         :#
-  flickr           :#
-  facebook         :#
-  foursquare       :#
+  uri              : #
+  bitbucket        : #
+  codepen          : #
+  dribbble         : #
+  flickr           :  #
+  facebook         : #
+  foursquare       : #
   github           : "yuyongzi"
-  google_plus      :#
-  keybase          :#
-  instagram        :#
-  impactstory      :# #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :#
-  linkedin         :#
+  google_plus      : #
+  keybase          : #
+  instagram        : # 
+  impactstory      : # #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           : #
+  linkedin         : #
   orcid            : "https://orcid.org/0000-0001-6695-3849"
-  pinterest        :#
-  soundcloud       :#
-  stackoverflow    :# # http://stackoverflow.com/users/123456/username
-  steam            :#
-  tumblr           :#
-  twitter          :# "replacethistwitterhandle"
-  vine             :#
-  weibo            :#
-  xing             :#
-  youtube          :#
-  wikipedia        :#
+  pinterest        : #
+  soundcloud       : #
+  stackoverflow    : # # http://stackoverflow.com/users/123456/username
+  steam            : # 
+  tumblr           : # 
+  twitter          : # "replacethistwitterhandle"
+  vine             : #
+  weibo            : #
+  xing             : #
+  youtube          : #
+  wikipedia        : #
 
 
 # Reading Files
