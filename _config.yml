@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "YongziYu / 于永孜"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yongzi Yu"
+description              : # &description "personal description"
+url                      : https://yuyongzi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,41 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Yongzi Yu"
+  avatar           : "于永孜.png"
+  bio              : "Undergraduate Student"
+  location         : "Beijing, China"
+  employer         :#
+  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :#"http://yourfullgooglescholarurl.com"
+  email            :  yuyz@bit.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  uri              :#
+  bitbucket        :#
+  codepen          :#
+  dribbble         :#
+  flickr           :#
+  facebook         :#
+  foursquare       :#
+  github           : "yuyongzi"
+  google_plus      :#
+  keybase          :#
+  instagram        :#
+  impactstory      :# #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :#
+  linkedin         :#
+  orcid            : "https://orcid.org/0000-0001-6695-3849"
+  pinterest        :#
+  soundcloud       :#
+  stackoverflow    :# # http://stackoverflow.com/users/123456/username
+  steam            :#
+  tumblr           :#
+  twitter          :# "replacethistwitterhandle"
+  vine             :#
+  weibo            :#
+  xing             :#
+  youtube          :#
+  wikipedia        :#
 
 
 # Reading Files
