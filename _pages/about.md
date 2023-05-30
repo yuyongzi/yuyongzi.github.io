@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongzi Yu"
+title: "About me"
 excerpt: "Yongzi Yu"
 author_profile: true
 redirect_from: 
