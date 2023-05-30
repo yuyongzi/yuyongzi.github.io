@@ -34,14 +34,22 @@ Yu Ma, Yuting Huang, Kaixiang Yuan, Guangzhe Xuan, **Yongzi Yu**, Hengrui Zhong,
 GPA: 87.5/100 (3.6/4.0)  
  
 # Awards
-2021 **Gold Medal,**   International Genetically Engineered Machine (iGEM) competition               International
-2021 **Silver Medal,** National College English Translation Competition                              National
-2022 **Third Prize,**  The 38th Beijing Municipal and Regional National College Physics Competition  Province
-2022 **Silver Medal,** The 19th Century Cup Final of Beijing Institute of Technology                 School
-2022 **Silver Medal,** The 17th "Challenge Cup"                                                      School
-2020 **Second Prize,** Academic Excellence Scholarship                                               School
-2021 **Third Prize,**  Academic Excellence Scholarship                                               School
-2022 **Third Prize,**  Academic Excellence Scholarship                                               School
+2021 **Gold Medal,**   International Genetically Engineered Machine (iGEM) competition        
+
+2021 **Silver Medal,** National College English Translation Competition                       
+
+2022 **Third Prize,**  The 38th Beijing Municipal and Regional National College Physics Competition 
+
+2022 **Silver Medal,** The 19th Century Cup Final of Beijing Institute of Technology            
+
+2022 **Silver Medal,** The 17th "Challenge Cup"                                                   
+
+2020 **Second Prize,** Academic Excellence Scholarship                                             
+
+2021 **Third Prize,**  Academic Excellence Scholarship                                        
+
+2022 **Third Prize,**  Academic Excellence Scholarship                                        
+
 [Email](mailto:yuyz@bit.edu.cn) / [Github](https://github.com/yuyongzi) / [Wechat](../images/wechat.jpg) 
 ### Friends
 [Tianyi Bai](https://beccabai.github.io/)  |  [Runyi Yang](https://runyiyang.github.io/)
