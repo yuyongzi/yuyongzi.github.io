@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [Beijing Institute of Technology](https://english.bit.edu.cn/). My research interest includes Machine Learning(ML), Federated Learning(FL), Differential Privacy(DP) and Computer Vision(CV).
+I'm a third year undergraduate student from [Beijing Institute of Technology](https://english.bit.edu.cn/). My previous research directions includes Machine Learning(ML), Federated Learning(FL), Differential Privacy(DP), Computer Vision(CV) and Healthcare. Previously I was advised by [Prof. Kun Qian](https://eecsqian.com/) from [Brain Health Engineering Club](https://bhe-lab.org/),Beijing Institute of Technology. And I was an intern advised by Prof.Hao Zhao of DISCOVER Lab from [AIR](https://air.tsinghua.edu.cn/gyair/AIRjj.htm), Tsinghua University.
 
-I am very fortunate to be advised by Prof.Hao Zhao of DISCOVER Lab from [AIR](https://air.tsinghua.edu.cn/gyair/AIRjj.htm), Tsinghua University. I was advised by [Prof. Kun Qian](https://eecsqian.com/) from [Brain Health Engineering Club](https://bhe-lab.org/),Beijing Institute of Technology.
 
 You can find my CV here: [Yongzi Curriculum Vitae](../files/RusselResume.pdf).
+
+# Education
+
 
 [Email](mailto:yuyz@bit.edu.cn) / [Github](https://github.com/yuyongzi) / [Wechat](../images/wechat.jpg) 
 
