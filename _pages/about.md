@@ -11,11 +11,9 @@ I'm a third year undergraduate student from [Beijing Institute of Technology](ht
 
 I am very fortunate to be advised by Prof.Hao Zhao of DISCOVER Lab from [AIR](https://air.tsinghua.edu.cn/gyair/AIRjj.htm), Tsinghua University. I was advised by [Prof. Kun Qian](https://eecsqian.com/) from [Brain Health Engineering Club](https://bhe-lab.org/),Beijing Institute of Technology.
 
-You can find my CV here: [Yongzi Curriculum Vitae](../files/RusselResume (1).pdf).
+You can find my CV here: [Yongzi Curriculum Vitae](../files/RusselResume.pdf).
 
 [Email](mailto:yuyz@bit.edu.cn) / [Github](https://github.com/yuyongzi) / [Wechat](../images/wechat.jpg) 
 
-
-**Markdown generator**
 
 
