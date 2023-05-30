@@ -15,13 +15,11 @@ You can find my CV here: [Yongzi Curriculum Vitae](../files/RusselResume.pdf).
 # Publications
 ---
 ## Jounal
----
 Wanyong Qiu, Chen Quan, Lixian Zhu, **Yongzi Yu**, Zhihua Wang, Yu Ma, Mengkai Sun, Yi Chang, Kun Qian, Bin Hu, Yoshiharu Yamamoto and Bjeorn W.Schuller "Heart Sound Abnormality Detection from Multi-institutional Collaboration: Introducing a Federated Learning Framework", IEEE Transactions on Information Forensics and Security, **under review**, pp. 1-11, April 2023.(IF=7.231)
 
 Yifan Feng, Cheng Chen, Shuxian Liu, Bingyu Dong, **Yongzi Yu**, Chen Chen, Xiaoyi Lv, "A novel technology of structural distance feature of Raman spectra and convolutional neural network for alcohol dependence diagnosis", Microchemical Journal, 189, 108485. (IF=5.304)
 
 ## Conference
----
 **Yongzi Yu**, Wanyong Qiu, Chen Quan, Kun Qian*, Zhihua Wang, Yu Ma, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto, “Federated Intelligent Terminals Facilitate Stuttering Monitoring”,in Proceedings of ICASSP, pp. 1-5, Rhodes Island, Greek, June 2023. (**CCF-B, oral**)
 
 Zhongxiang Lei, **Yongzi Yu**, Chongyang Shi, Yuanchi Ma, Jinyan Liu, "Data-Free Federated Transformers Distillation via Diversity Randomly Sample", in Proceedings of NeurIPS, **under review**, pp. 1-12, New Orleans, Dec 2023. (**CCF-A**)
