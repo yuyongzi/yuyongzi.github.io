@@ -24,8 +24,6 @@ Yifan Feng, Cheng Chen, Shuxian Liu, Bingyu Dong, **Yongzi Yu**, Chen Chen, Xiao
 
 Zhongxiang Lei, **Yongzi Yu**, Chongyang Shi, Yuanchi Ma, Jinyan Liu, "Data-Free Federated Transformers Distillation via Diversity Randomly Sample", in Proceedings of NeurIPS, **under review**, pp. 1-12, New Orleans, Dec 2023. (**CCF-A**)
 
-Xiaoyu Shen, Wanyong Qiu, Kun Qian*, **Yongzi Yu**, Bin Hu, "Self-supervised Federated Learning for Heart Sound Recognition", in Proceedings of China Multimedia2023, **under review**, pp. 1-7, Kunming Yunnan, China, August 2023.
-
 Yu Ma, Yuting Huang, Kaixiang Yuan, Guangzhe Xuan, **Yongzi Yu**, Hengrui Zhong, Rui Li, Jian Shen, Kun Qian, Bin Hu, Bj¨orn W. Schuller and Yoshiharu Yama, "Explainable Stuttering Recognition using Axial Attention", in Proceedings of ICIC 2023, **under review**, pp. 1-11, Zhengzhou, China, August 2023. (**CCF-C**)
 
 # Education
@@ -33,7 +31,7 @@ Yu Ma, Yuting Huang, Kaixiang Yuan, Guangzhe Xuan, **Yongzi Yu**, Hengrui Zhong,
 * **Beijing Institute of Technology**    
 **Major:Data Science and Big Data Technology, School of Computer**     
 *September 2020 to June 2024(Expected)*   
-GPA: 87.5/100 (3.6/4.0)  
+GPA: 3.6/4.0
  
 # Awards
 ---
