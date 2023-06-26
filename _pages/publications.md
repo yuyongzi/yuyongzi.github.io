@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 # Conference Paper
----
-permalink: /publications/2009-10-01-paper-title-number-1.md
----
-
+<ul>
+<li>Federated Intelligent Terminals Facilitate Stuttering Monitoring
+**Yongzi Yu**, Wanyong Qiu, Chen Quan, Kun Qian*, Zhihua Wang, Yu Ma, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto,in Proceedings of ICASSP, pp. 1-5, Rhodes Island, Greek, June 2023. (**CCF-B, oral**)
+</li>
+</ul>
 # Jounal Paper
 
 # Under review Paper
