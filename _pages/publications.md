@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Conference Paper
 
-- [Federated Intelligent Terminals Facilitate Stuttering Monitoring](https://sigport.org/documents/federated-intelligent-terminals-facilitate-stuttering-monitoring "最好的markdown教程")
+- [Federated Intelligent Terminals Facilitate Stuttering Monitoring](https://sigport.org/documents/federated-intelligent-terminals-facilitate-stuttering-monitoring "Link of this paper")
   
     **Yongzi Yu**, Wanyong Qiu, Chen Quan, Kun Qian*, Zhihua Wang, Yu Ma, Bin Hu*, Björn W. Schuller, and Yoshiharu Yamamoto,in Proceedings of ICASSP, pp. 1-5, Rhodes Island, Greek, June 2023. (**CCF-B, oral**)
 
