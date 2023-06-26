@@ -13,6 +13,9 @@ author_profile: true
 
 # Jounal Paper
 
+- [A novel technology of structural distance feature of Raman spectra and convolutional neural network for alcohol dependence diagnosis](https://www.sciencedirect.com/science/article/pii/S0026265X23001030 "Link of this paper")
+
+    Yifan Feng, Cheng Chen, Shuxian Liu, Bingyu Dong, **Yongzi Yu**, Chen Chen, Xiaoyi Lv, Microchemical Journal, 189, 108485. (IF=5.304)
 # Under review Paper
 
 # Working Paper
