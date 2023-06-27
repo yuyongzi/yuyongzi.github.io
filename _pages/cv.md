@@ -15,6 +15,8 @@ redirect_from:
 
 <li>2022 <b>Third Prize,</b>  The 38th Beijing Municipal and Regional National College Physics Competition </li>
 
+<li>2022 <b>Silver Medal, </b>The 7th China International Internet+ College Students Competition</li>
+
 <li>2022 <b>Silver Medal,</b> The 19th Century Cup Final of Beijing Institute of Technology </li>           
 
 <li>2022 <b>Silver Medal,</b> The 17th "Challenge Cup"</li>                                                   
