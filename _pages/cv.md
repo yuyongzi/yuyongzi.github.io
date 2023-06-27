@@ -8,23 +8,23 @@ redirect_from:
 ---
 # Awards & Honors
 <font size=3>
-  
-2021 <b>Gold Medal,</b>   International Genetically Engineered Machine (iGEM) competition        
+<ul>
+<li>2021 <b>Gold Medal,</b>   International Genetically Engineered Machine (iGEM) competition</li>       
 
-2021 <b>Silver Medal,</b> National College English Translation Competition                       
+<li>2021 <b>Silver Medal,</b> National College English Translation Competition </li>                      
 
-2022 <b>Third Prize,</b>  The 38th Beijing Municipal and Regional National College Physics Competition 
+<li>2022 <b>Third Prize,</b>  The 38th Beijing Municipal and Regional National College Physics Competition </li>
 
-2022 <b>Silver Medal,</b> The 19th Century Cup Final of Beijing Institute of Technology            
+<li>2022 <b>Silver Medal,</b> The 19th Century Cup Final of Beijing Institute of Technology </li>           
 
-2022 <b>Silver Medal,</b> The 17th "Challenge Cup"                                                   
+<li>2022 <b>Silver Medal,</b> The 17th "Challenge Cup"</li>                                                   
 
-2020 <b>Second Prize,</b> Academic Excellence Scholarship                                             
+<li>2020 <b>Second Prize,</b> Academic Excellence Scholarship </li>                                            
 
-2021 <b>Third Prize,</b>  Academic Excellence Scholarship                                        
+<li>2021 <b>Third Prize,</b>  Academic Excellence Scholarship </li>                                       
 
-2022 <b>Third Prize,</b>  Academic Excellence Scholarship   
-
+<li>2022 <b>Third Prize,</b>  Academic Excellence Scholarship </li>  
+</ul>
 </font>
 
 Work experience
