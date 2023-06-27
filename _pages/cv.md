@@ -1,19 +1,31 @@
 ---
 layout: archive
-title: "CV"
+title: "Awards"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+# Awards & Honors
+<font size=30 >
+  
+2021 **Gold Medal,**   International Genetically Engineered Machine (iGEM) competition        
 
-{% include base_path %}
+2021 **Silver Medal,** National College English Translation Competition                       
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+2022 **Third Prize,**  The 38th Beijing Municipal and Regional National College Physics Competition 
+
+2022 **Silver Medal,** The 19th Century Cup Final of Beijing Institute of Technology            
+
+2022 **Silver Medal,** The 17th "Challenge Cup"                                                   
+
+2020 **Second Prize,** Academic Excellence Scholarship                                             
+
+2021 **Third Prize,**  Academic Excellence Scholarship                                        
+
+2022 **Third Prize,**  Academic Excellence Scholarship   
+
+</font>
 
 Work experience
 ======
