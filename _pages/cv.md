@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 # Awards & Honors
-<font size=15 >
+<font size=10 >
   
 2021 <b>Gold Medal,</b>   International Genetically Engineered Machine (iGEM) competition        
 
