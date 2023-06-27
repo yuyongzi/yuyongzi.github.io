@@ -31,43 +31,32 @@ redirect_from:
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Dec 2021 - Current: Research Assistant
+  * Beijing Institute of Technology
+  * Brain Health Engineering Club(BHEC)
+  * Research Area: Federated Learning (FL) on Audio in Healthcare 
+  * Supervisor: Kun Qian, Bin Hu, Bjoern W.Schuller
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Aug 2022 - June 2023: Research Assistant
+  * Tsinghua University
+  * Discover Lab, Institute for AI Industry Research (AIR)
+  * Research Area: Computer Vision on Autonomous Driving
+  * Supervisor: Hao Zhao, Jiangtao Guo, Guyue Zhou
+    
+*Oct 2022 - Current: Research Assistant
+  * Beijing Institute of Technology
+  * Institute of Software Intelligence and Software Engineering(SISE)
+  * Research Area: Federated Learning and Differential Privacy
+  * Supervisor: Jinyan Liu
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*July 2022 - Aug 2022 - Current: Research Assistant
+  * XinJiang University
+  * Key Laboratory of Signal Detection and Processing(SDP)
+  * Research Area: Medical AI
+  * Supervisor: Xiaoyi Lv
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
