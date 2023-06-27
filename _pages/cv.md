@@ -7,23 +7,23 @@ redirect_from:
   - /resume
 ---
 # Awards & Honors
-<font size=30 >
+<font size=15 >
   
-2021 **Gold Medal,**   International Genetically Engineered Machine (iGEM) competition        
+2021 <b>Gold Medal,</b>   International Genetically Engineered Machine (iGEM) competition        
 
-2021 **Silver Medal,** National College English Translation Competition                       
+2021 <b>Silver Medal,</b> National College English Translation Competition                       
 
-2022 **Third Prize,**  The 38th Beijing Municipal and Regional National College Physics Competition 
+2022 <b>Third Prize,</b>  The 38th Beijing Municipal and Regional National College Physics Competition 
 
-2022 **Silver Medal,** The 19th Century Cup Final of Beijing Institute of Technology            
+2022 <b>Silver Medal,</b> The 19th Century Cup Final of Beijing Institute of Technology            
 
-2022 **Silver Medal,** The 17th "Challenge Cup"                                                   
+2022 <b>Silver Medal,</b> The 17th "Challenge Cup"                                                   
 
-2020 **Second Prize,** Academic Excellence Scholarship                                             
+2020 <b>Second Prize,</b> Academic Excellence Scholarship                                             
 
-2021 **Third Prize,**  Academic Excellence Scholarship                                        
+2021 <b>Third Prize,</b>  Academic Excellence Scholarship                                        
 
-2022 **Third Prize,**  Academic Excellence Scholarship   
+2022 <b>Third Prize,</b>  Academic Excellence Scholarship   
 
 </font>
 
